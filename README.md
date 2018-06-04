@@ -5,7 +5,7 @@
 Hacettepe Üniversitesi BÖTE Bölümü BTÖ312 Çoklu Ortam Tasarımı ve Üretimi dersi kapsamında hazırlanmıştır.
 
 ---
-##Grup Üyeleri
+## Grup Üyeleri
 
 -Hüseyin Can AZAPCI
 -Ömer Faruk YILDIZ
